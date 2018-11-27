@@ -1,0 +1,2 @@
+# brute-sqlcipher
+dev level ;-)
